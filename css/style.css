@@ -1616,6 +1616,7 @@ body::after {
   position: relative;
 }
 .sells__slider {
+  touch-action: pan-y;
   margin: 0 3.75rem;
 }
 @media (max-width: 61.99875em) {
