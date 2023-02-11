@@ -1,1 +1,1 @@
-# sfety
+# safety
